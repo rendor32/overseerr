@@ -131,7 +131,7 @@
     "husky": "4.3.8",
     "lint-staged": "^11.1.2",
     "nodemon": "^2.0.12",
-    "postcss": "^8.3.6",
+    "postcss": "^8.4.16",
     "prettier": "^2.4.1",
     "semantic-release": "^18.0.0",
     "semantic-release-docker-buildx": "^1.0.1",
